@@ -31,7 +31,7 @@ git clone https://github.com/Miceuz/docker-compose-mosquitto-influxdb-telegraf-g
 To download, setup and start all the services run
 ```
 cd docker-compose-mosquitto-influxdb-telegraf-grafana
-sudo docker-compose up -d`
+sudo docker-compose up -d
 ```
 
 To check the running setvices run
