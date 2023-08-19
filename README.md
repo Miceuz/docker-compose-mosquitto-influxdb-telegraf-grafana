@@ -23,7 +23,7 @@ sudo usermod -aG docker iothon
 ## Clone this repository
 
 ```
-git clone git@github.com:Miceuz/docker-compose-mosquitto-influxdb-telegraf-grafana.git 
+git clone https://github.com/Miceuz/docker-compose-mosquitto-influxdb-telegraf-grafana.git
 ```
 
 ## Run it
